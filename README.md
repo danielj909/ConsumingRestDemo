@@ -9,7 +9,7 @@ To run this project, you need to have [Java 11](https://openjdk.java.net/project
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+   git clone https://github.com/danielj909/ConsumingRestDemo.git
 
 2. Navigate to the project directory:
 
