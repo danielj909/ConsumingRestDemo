@@ -14,7 +14,7 @@ To run this project, you need to have [Java 11](https://openjdk.java.net/project
 2. Navigate to the project directory:
 
    ```bash
-   cd YOUR_REPOSITORY
+   cd ConsumingRestDemo
    
 3. Run the project using Maven:
 
