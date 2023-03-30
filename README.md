@@ -23,6 +23,8 @@ To run this project, you need to have [Java 11](https://openjdk.java.net/project
    
 4. Open a web browser and go to http://localhost:8080 to see the random joke.
 
+![Example Image](https://i.imgur.com/frPgk8O.png)
+
 ## Built With
 - [Spring Boot](https://spring.io/projects/spring-boot) - The framework used for building the application.
 - [Maven](https://maven.apache.org/) - Dependency Management.
